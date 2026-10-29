@@ -20,5 +20,7 @@ Para el diseño inicial de la pagina utilizamos Figma, un sitio donde puedes com
             -  CSS
 
 ## Como correr el proyecto
+```
 npm i
 npm start
+```
