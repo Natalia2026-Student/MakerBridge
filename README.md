@@ -2,9 +2,11 @@
 Proyecto creado como parte de la formación integral recibida de Desarrollo Web Full Stack gracias a Fundación Pescar junto con Educación IT. El mismo se desarrollo de manera colaborativa con otros compañeros, en esta parte del proyecto van a encontrar la parte del frontend desarrollado junto con Daiana Liz Lucana y Agustina Ceballos. 
 La idea surgio de a partir de una sugerencia de Elizabeth Woca, una fabricante que conoce del mercado y detecto al necesidad de un intermediario entre los "makers" como llamamos a los fabricantes de impresiones 3d y los "Clientes" quienes son los que buscan economizar en sus gastos buscando productos accesibles a solo en este caso de una suscripcion mensual.
 Division de roles:
+```
             -  Daiana -------> Vista Maker y Publica
             -  Agustina -----> Vista Publica y Login
             -  Natalia ------> Vista Cliente
+```
 
 ## Vistas de la pagina:
 La misma cuenta con 3 vistas: la del Maker (o proveedor de productos impresos en 3D), la del Cliente y la Publica que es aquella que ven los usuarios al visitar por primera vez la pagina.
